@@ -12,7 +12,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author ACER
+ * @author Vinay
  */
 public class FileManager {
     private static String str;
